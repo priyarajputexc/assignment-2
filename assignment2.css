@@ -1,46 +1,43 @@
 #red {
 	position: absolute;
-	border:3px solid red;
-	width:200px;
-	height:100px;
+	border: 3px solid red;
+	width: 200px;
+	height: 100px;
 }
 #yellow {
-	border:3px solid yellow;
-	width:200px;
-	height:100px;
-	position:absolute;
-	left:206px;
+	border: 3px solid yellow;
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	left: 206px;
 }
 #green {
-	position:absolute;
-	top:105px;
-	border:3px solid green;
-	width:200px;
-	height:100px;
-
+	position: absolute;
+	top: 105px;
+	border: 3px solid green;
+	width: 200px;
+	height: 100px;
 }
 #orange {
-	position:absolute;
-	top:105px;
-	left:206px;
-	border:3px solid orange;
-	width:200px;
-	height:100px;
-
+	position: absolute;
+	top: 105px;
+	left: 206px;
+	border: 3px solid orange;
+	width: 200px;
+	height: 100px;
 }
 #violet {
-	width:100px;
-	height:100px;
-	border:3px solid violet;
-	position:absolute;
-	left:150px;
-	top:50px;
+	width: 100px;
+	height: 100px;
+	border: 3px solid violet;
+	position: absolute;
+	left: 150px;
+	top: 50px;
 }
-#center{
-	position:relative;
-	top:200px;
-	margin:0 auto;
-	height:210px;
-	width:411px;
-	
+#center {
+	position: relative;
+	top: 200px;
+	margin: 0 auto;
+	height: 210px;
+	width: 411px;
 }
