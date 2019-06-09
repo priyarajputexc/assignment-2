@@ -1,38 +1,38 @@
 #red {
 	position: absolute;
-	border: 3px solid red;
+	border: 2px solid red;
 	width: 200px;
 	height: 100px;
 }
 #yellow {
-	border: 3px solid yellow;
+	border: 2px solid yellow;
 	width: 200px;
 	height: 100px;
 	position: absolute;
-	left: 206px;
+	left: 204px;
 }
 #green {
 	position: absolute;
-	top: 105px;
-	border: 3px solid green;
+	top: 104px;
+	border: 2px solid green;
 	width: 200px;
 	height: 100px;
 }
 #orange {
 	position: absolute;
-	top: 105px;
-	left: 206px;
-	border: 3px solid orange;
+	top: 104px;
+	left: 204px;
+	border: 2px solid #F14723;
 	width: 200px;
 	height: 100px;
 }
 #violet {
 	width: 100px;
 	height: 100px;
-	border: 3px solid violet;
+	border: 2px solid #852A17;
 	position: absolute;
-	left: 150px;
-	top: 50px;
+	left: 149px;
+	top: 49px;
 }
 #center {
 	position: relative;
